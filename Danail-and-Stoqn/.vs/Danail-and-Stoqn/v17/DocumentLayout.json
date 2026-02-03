@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SATomov23\\Documents\\Danail-and-Stoqn\\Danail-and-Stoqn\\",
+  "WorkspaceRootPath": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EFC66FA-7205-46DB-AF1B-6B61199A8EBF}|Danail-and-Stoqn\\Danail-and-Stoqn.vcxproj|C:\\Users\\SATomov23\\Documents\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0CA0382F-101D-4BDF-B422-85FB623BA429}|Project1\\Project1.vcxproj|H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA0382F-101D-4BDF-B422-85FB623BA429}|Project1\\Project1.vcxproj|solutionrelative:Project1\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA0382F-101D-4BDF-B422-85FB623BA429}|Project1\\Project1.vcxproj|H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CA0382F-101D-4BDF-B422-85FB623BA429}|Project1\\Project1.vcxproj|solutionrelative:Project1\\library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EFC66FA-7205-46DB-AF1B-6B61199A8EBF}|Danail-and-Stoqn\\Danail-and-Stoqn.vcxproj|H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6EFC66FA-7205-46DB-AF1B-6B61199A8EBF}|Danail-and-Stoqn\\Danail-and-Stoqn.vcxproj|solutionrelative:Danail-and-Stoqn\\Danail-and-Stoqn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +27,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Danail-and-Stoqn.cpp",
-              "DocumentMoniker": "C:\\Users\\SATomov23\\Documents\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
-              "RelativeDocumentMoniker": "Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
-              "ToolTip": "C:\\Users\\SATomov23\\Documents\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
-              "RelativeToolTip": "Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
+              "Title": "library.h",
+              "DocumentMoniker": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.h",
+              "RelativeDocumentMoniker": "Project1\\library.h",
+              "ToolTip": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.h",
+              "RelativeToolTip": "Project1\\library.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-03T07:43:48.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "library.cpp",
+              "DocumentMoniker": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.cpp",
+              "RelativeDocumentMoniker": "Project1\\library.cpp",
+              "ToolTip": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Project1\\library.cpp",
+              "RelativeToolTip": "Project1\\library.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T07:41:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Danail-and-Stoqn.cpp",
+              "DocumentMoniker": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
+              "RelativeDocumentMoniker": "Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
+              "ToolTip": "H:\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
+              "RelativeToolTip": "Danail-and-Stoqn\\Danail-and-Stoqn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-03T07:27:58.062Z",
               "EditorCaption": ""
