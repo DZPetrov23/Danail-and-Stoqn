@@ -1,7 +1,7 @@
 ﻿#include "library.h"
 #include <iostream>
 using namespace std;
-// Създава нова книга
+
 Book createBook(const string& title,
     const string& author,
     int year,
@@ -13,14 +13,14 @@ Book createBook(const string& title,
     b.price = price;
     return b;
 }
-// Извежда информация за книга
+
 void printBook(const Book& book) {
     cout << "Title: " << book.title
         << ", Author: " << book.author
         << ", Year: " << book.year
         << ", Price: " << book.price << endl;
 }
-// Извежда всички книги в библиотеката
+
 void printLibrary(const Library& library) {
     cout << "Library: " << library.name << endl;
     cout << "Number of books: " << library.count << endl;
@@ -29,7 +29,7 @@ void printLibrary(const Library& library) {
         printBook(library.books[i]);
     }
 }
-// Пресмята средната цена на книгите
+
 double averageBookPrice(const Library& library) {
     if (library.count == 0) return 0.0;
     double sum = 0;
@@ -38,7 +38,7 @@ double averageBookPrice(const Library& library) {
     }
     return sum / library.count;
 }
-// Намира най-старата книга
+
 Book oldestBookInLibrary(const Library& library) {
     if (library.count == 0) {
         Book empty;
